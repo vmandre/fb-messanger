@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "4b613293e65592e38f8a70c7c208e60a",
+    "pageAccessToken": "EAACNLC9ZC2jsBAITuAZBX8L1yUE3RIsvt9KrbH3d07z3FSTbvSpNvyJYJPXYZBzHca2r9kDRJgumIQXZBJsIoDD0j2odQ3WTJEBzNSMeZBrYGnBBDjvzamW1ugqgZBFozT2SbxHQWUYouM0B4XuEZB8IqIPGZBd4cgMNNZBmE10MakAZDZD",
+    "validationToken": "token",
+    "serverURL": "https://www.facebook.com/chatbot.vand/"
 }
